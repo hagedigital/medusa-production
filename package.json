@@ -1,0 +1,14 @@
+{
+  "name": "medusa-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "medusa start",
+    "build": "medusa build"
+  },
+  "dependencies": {
+    "@medusajs/medusa": "latest",
+    "medusa-interfaces": "latest",
+    "pg": "latest",
+    "ioredis": "latest"
+  }
+}
